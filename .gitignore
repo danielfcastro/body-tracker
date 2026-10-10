@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Personal Evolt 360 report PDFs: kept locally as the app's input data,
+# never committed (privacy).
+reports/
